@@ -1,6 +1,14 @@
 # FizzBuzz in C# with DotNet
 
 ## See "Program.cs" file for FizzBuzz code
+
+## How to run program
+```
+    cd <into directory you want to save this project>
+    git clone https://github.com/NickRamsey6/fizz-buzz-dot-net.git
+    cd fizzbuzz-dot-net
+    dot net run
+```
 ## Assignment
 Using C# code with the .NET framework, write a sample FizzBuzz program. The FizzBuzz program will count up by 1 and for each number divisible by 3, the program will print "Fizz". For each number divisible by 5, the program will print "Buzz" and for numbers divisible by 3 and 5, the program will print "FizzBuzz".
 
