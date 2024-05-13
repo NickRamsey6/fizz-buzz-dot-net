@@ -1,10 +1,12 @@
-﻿using System;
-
+﻿
 public class Program
 {
+    
     public static void Main()
     {
-        for (int i = 1; i <= 100; i++)
+        Console.WriteLine("Please enter the number you want to count FizzBuzz to:");
+        int countToNum = Convert.ToInt32(Console.ReadLine());
+        for (int i = 1; i <= countToNum; i++)
         {
             if (i % 3 == 0 && i % 5 == 0)
                 Console.WriteLine("FizzBuzz");

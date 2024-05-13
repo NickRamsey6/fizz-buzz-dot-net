@@ -12,3 +12,4 @@ C:\Users\nrams\OneDrive\Desktop\fizzbuzz\obj\Debug\net8.0\refint\fizzbuzz.dll
 C:\Users\nrams\OneDrive\Desktop\fizzbuzz\obj\Debug\net8.0\fizzbuzz.pdb
 C:\Users\nrams\OneDrive\Desktop\fizzbuzz\obj\Debug\net8.0\fizzbuzz.genruntimeconfig.cache
 C:\Users\nrams\OneDrive\Desktop\fizzbuzz\obj\Debug\net8.0\ref\fizzbuzz.dll
+C:\Users\nrams\OneDrive\Desktop\fizzbuzz\obj\Debug\net8.0\fizzbuzz.sourcelink.json
