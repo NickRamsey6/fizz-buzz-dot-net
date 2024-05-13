@@ -1,4 +1,4 @@
-﻿// I removed the System library because looks like later versions of DotNet support top-level functions so I dont need System to write to the console.
+﻿// I removed the System library because it looks like later versions of DotNet support top-level functions so I don't need System to write to the console.
 public class Program
 {
     
@@ -11,7 +11,7 @@ public class Program
         // We will start with 1 and count up by 1 up to and including the user's number.
         for (int i = 1; i <= countToNum; i++)
         {
-            // We check for the AND conditional first because otherwise we will never hit it with this setup. If we set divisible by 3 to "Fizz" first then this conditional would be skipped.
+            // We check for the AND conditional first because otherwise we will never hit it with this setup. If we set divisible by 3 to "Fizz" first then this conditional would be skipped later.
             if (i % 3 == 0 && i % 5 == 0)
                 Console.WriteLine("FizzBuzz");
             else if (i % 5 == 0)
